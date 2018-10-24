@@ -1,2 +1,2 @@
 # MVC5
-Skeleton of an ASP.NET MVC5 aaplication
+Skeleton of an ASP.NET MVC5 application
